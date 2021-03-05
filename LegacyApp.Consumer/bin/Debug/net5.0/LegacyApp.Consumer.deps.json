@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "LegacyApp.Consumer/1.0.0": {
+        "dependencies": {
+          "LegacyApp": "1.0.0"
+        },
+        "runtime": {
+          "LegacyApp.Consumer.dll": {}
+        }
+      },
+      "LegacyApp/1.0.0": {
+        "runtime": {
+          "LegacyApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LegacyApp.Consumer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LegacyApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
